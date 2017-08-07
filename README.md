@@ -7,3 +7,6 @@
 
 ## Below is a flowchart to illustrate the process of using the RIOT App Market website and flash the users connected device:
 ![Flowchart](flowchart.png "Flowchart")
+
+### More Information
+Visit [RIOT OS Website](https://riot-os.org/ "https://riot-os.org/") for details
