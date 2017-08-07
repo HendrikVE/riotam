@@ -20,14 +20,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="1078.5805570533096" width="673.5174603174603" x="0.0" y="607.3984374999998"/>
+              <y:Geometry height="1061.39169416081" width="654.3404761904762" x="0.0" y="607.3984374999998"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="673.5174603174603" x="0.0" y="0.0">Client-Seite</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="654.3404761904762" x="0.0" y="0.0">Client side</y:NodeLabel>
               <y:Shape type="rectangle3d"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="30" leftF="30.001877521333242" right="1" rightF="1.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="17" leftF="17.12886164831737" right="72" rightF="71.78055555555557" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="13.732508680555554" y="678.9062499999998"/>
@@ -46,7 +46,7 @@
         <node id="n0::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="50.0" width="150.0" x="422.54563492063494" y="881.5783653259275"/>
+              <y:Geometry height="50.0" width="150.0" x="408.26428571428573" y="888.846294403076"/>
               <y:Fill color="#C0C0C0" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.462890625" x="26.2685546875" y="16.015625">Google Chrome<y:LabelModel>
@@ -63,10 +63,10 @@
         <node id="n0::n1">
           <data key="d6">
             <y:SVGNode>
-              <y:Geometry height="53.24563217163086" width="65.0260009765625" x="107.06953919425843" y="798.3327331542966"/>
+              <y:Geometry height="53.24563217163086" width="65.0260009765625" x="81.32350744822669" y="798.3327331542966"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.654296875" x="69.0260009765625" y="17.63844108581543">Computer<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="63.654296875" x="69.02600097656249" y="17.63844108581543">Computer<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -83,7 +83,7 @@
         <node id="n0::n2">
           <data key="d6">
             <y:SVGNode>
-              <y:Geometry height="64.53585815429688" width="56.560157775878906" x="111.30246079460022" y="665.8281249999998"/>
+              <y:Geometry height="64.53585815429688" width="56.560157775878906" x="85.55642904856849" y="665.8281249999998"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.3515625" x="12.604297637939453" y="-21.96875">User<y:LabelModel>
@@ -103,10 +103,10 @@
         <node id="n0::n3">
           <data key="d6">
             <y:SVGNode>
-              <y:Geometry height="19.583999633789062" width="69.15814971923828" x="45.00187752133324" y="1651.3949949195203"/>
+              <y:Geometry height="19.583999633789062" width="69.15814971923828" x="32.12886164831737" y="1634.2061320270207"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.478515625" x="73.1581497192383" y="0.8076248168945312">Board<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.478515625" x="73.15814971923828" y="0.8076248168945312">Board<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -124,12 +124,12 @@
           <data key="d4"/>
           <data key="d6">
             <y:UMLNoteNode>
-              <y:Geometry height="50.0" width="191.9999999999999" x="154.58253968253973" y="881.5783653259275"/>
+              <y:Geometry height="64.53585815429688" width="249.42774880212505" x="128.8365224243343" y="881.5783653259275"/>
               <y:Fill color="#FFFF00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="169.046875" x="11.476562499999943" y="2.046875">muss zuerst manuell
-installiert werden via Script
-(zusammen mit OpenOCD)<y:LabelModel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="216.103515625" x="16.662116588562526" y="9.314804077148438">needs to be installed first manually
+with a script
+(combined with OpenOCD)<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -145,14 +145,14 @@ installiert werden via Script
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="587.8791295935928" width="533.9349206349207" x="123.58253968253968" y="1033.5158653259277"/>
+                  <y:Geometry height="570.1231585467963" width="469.72341269841274" x="97.83650793650793" y="1034.0829734802244"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="533.9349206349207" x="0.0" y="0.0">RIOT App Market</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="469.72341269841274" x="0.0" y="0.0">RIOT App Market</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="0" bottomF="2.2737367544323206E-13" left="1" leftF="1.0000000000000568" right="1" rightF="1.0002204172637903" top="43" topF="43.46874999999977"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="1" leftF="1.0000000000000568" right="1" rightF="1.0001102086321225" top="43" topF="43.46875"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="50.0" width="50.0" x="1033.1059523809527" y="1101.822736740112"/>
@@ -171,7 +171,7 @@ installiert werden via Script
             <node id="n0::n5::n0">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="50.0" width="150.0" x="410.04563492063494" y="1113.4455528259275"/>
+                  <y:Geometry height="50.0" width="150.0" x="363.3670634920635" y="1114.0126609802244"/>
                   <y:Fill color="#C0C0C0" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.056640625" x="17.9716796875" y="16.015625">Chrome Extension<y:LabelModel>
@@ -188,7 +188,7 @@ installiert werden via Script
             <node id="n0::n5::n1">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="50.0" width="150.0" x="198.08253968253968" y="1468.6390238727238"/>
+                  <y:Geometry height="50.0" width="150.0" x="172.33650793650793" y="1459.2061320270207"/>
                   <y:Fill color="#C0C0C0" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.572265625" x="4.2138671875" y="16.015625">Native Messaging Host<y:LabelModel>
@@ -205,7 +205,7 @@ installiert werden via Script
             <node id="n0::n5::n2">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="50.0" width="191.9999999999999" x="139.58253968253973" y="1556.3949949195203"/>
+                  <y:Geometry height="50.0" width="191.9999999999999" x="113.83650793650799" y="1539.2061320270207"/>
                   <y:Fill color="#C0C0C0" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="156.291015625" x="17.854492187499943" y="16.015625">OpenOCD (vorkompiliert)<y:LabelModel>
@@ -222,10 +222,10 @@ installiert werden via Script
             <node id="n0::n5::n3">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="110.99999999999994" width="133.99999999999994" x="415.13174603174605" y="1271.9143028259275"/>
+                  <y:Geometry height="110.99999999999994" width="133.99999999999994" x="371.3670634920635" y="1262.4814109802244"/>
                   <y:Fill color="#FFFFFF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.802734375" x="46.5986328125" y="46.515625">Aufruf<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.283203125" x="40.3583984375" y="46.515625">Request<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -240,12 +240,12 @@ installiert werden via Script
               <data key="d4"/>
               <data key="d6">
                 <y:UMLNoteNode>
-                  <y:Geometry height="65.51194209359272" width="251.7709877369008" x="389.74625216329565" y="1460.8830528259275"/>
+                  <y:Geometry height="65.51194209359272" width="159.38549386845023" x="392.1743165578384" y="1451.4501609802244"/>
                   <y:Fill color="#FFFF00" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="206.564453125" x="22.603267305950396" y="9.802846046796276">Enthält:
-- anzusteuerndes Flashprogramm
-- Name des Boards<y:LabelModel>
+                  <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.017578125" x="7.183957871725113" y="9.802846046796276">Contains:
+- needed flash program
+- name of board<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -265,14 +265,14 @@ installiert werden via Script
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="354.311185836792" width="747.5234126984128" x="703.5174603174603" y="1033.5158653259275"/>
+              <y:Geometry height="344.311185836792" width="724.5841269841268" x="684.3404761904761" y="1034.0829734802244"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="747.5234126984128" x="0.0" y="0.0">Server-Seite</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="724.5841269841268" x="0.0" y="0.0">Server side</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="1" leftF="1.0002204172640177" right="1" rightF="1.0" top="13" topF="12.96875"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="1" leftF="1.0000000000001137" right="1" rightF="0.9999999999997726" top="13" topF="12.96875"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -291,7 +291,7 @@ installiert werden via Script
         <node id="n1::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="50.0" width="150.0" x="1285.040873015873" y="1113.4455528259275"/>
+              <y:Geometry height="50.0" width="150.0" x="1242.9246031746031" y="1114.0126609802244"/>
               <y:Fill color="#C0C0C0" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.3515625" x="53.32421875" y="16.015625">Server<y:LabelModel>
@@ -308,10 +308,10 @@ installiert werden via Script
         <node id="n1::n1">
           <data key="d6">
             <y:SVGNode>
-              <y:Geometry height="46.887996673583984" width="39.527000427246094" x="835.5214204212975" y="1303.9703044891355"/>
+              <y:Geometry height="46.887996673583984" width="39.527000427246094" x="786.4587220085991" y="1294.5374126434324"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.8125" x="-15.142749786376953" y="50.887996673583984">Datenbank<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.2578125" x="-10.865406036376953" y="50.887996673583984">Database<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -329,13 +329,13 @@ installiert werden via Script
           <data key="d4"/>
           <data key="d6">
             <y:UMLNoteNode>
-              <y:Geometry height="110.99999999999994" width="251.7709877369008" x="719.5176807347243" y="1082.9455528259275"/>
+              <y:Geometry height="110.99999999999994" width="191.9999999999999" x="700.3404761904762" y="1083.5126609802244"/>
               <y:Fill color="#FFFF00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="233.5234375" x="9.12377511845034" y="25.5625">Speichert:
-- VendorID
-- benötigtes Flash Programm
-- Argumentenübergabe für native App<y:LabelModel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.302734375" x="13.3486328125" y="25.5625">Stores
+- vendorID
+- needed flash program
+- arguments for native app<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -353,14 +353,14 @@ installiert werden via Script
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="587.3984374999998" width="944.4952380952382" x="481.54563492063494" y="0.0"/>
+              <y:Geometry height="587.3984374999998" width="916.6603174603174" x="467.26428571428573" y="0.0"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="944.4952380952382" x="0.0" y="0.0">WWW</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="916.6603174603174" x="0.0" y="0.0">WWW</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="51" leftF="51.3321428571428" right="16" rightF="16.000220417264018" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="55" leftF="55.23412698412699" right="16" rightF="16.00034618038967" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
@@ -380,12 +380,12 @@ installiert werden via Script
           <data key="d4"/>
           <data key="d6">
             <y:UMLNoteNode>
-              <y:Geometry height="71.99999999999994" width="251.7709877369008" x="1143.2696648617084" y="322.4296874999999"/>
+              <y:Geometry height="71.99999999999994" width="207.42391081382368" x="1145.50034618039" y="322.4296874999999"/>
               <y:Fill color="#FFFF00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="222.701171875" x="14.53490793095034" y="13.046875">Enthält:
-- angeschlossenes Board (VendorID)
-- gewünschte Module<y:LabelModel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.59765625" x="12.913127281911784" y="13.046875">Contains:
+- connected board (vendorID)
+- selected modules<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -398,10 +398,10 @@ installiert werden via Script
         <node id="n2::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="89.99999999999994" width="108.99999999999989" x="1187.4051587301587" y="482.3984374999998"/>
+              <y:Geometry height="89.99999999999994" width="108.99999999999989" x="1167.4623015873017" y="482.3984374999998"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.326171875" x="28.8369140625" y="36.015625">Anfrage<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.283203125" x="27.8583984375" y="36.015625">Request<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -415,10 +415,10 @@ installiert werden via Script
         <node id="n2::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="110.99999999999994" width="133.99999999999994" x="589.3777777777777" y="128.46093749999994"/>
+              <y:Geometry height="110.99999999999994" width="133.99999999999994" x="578.9984126984127" y="128.46093749999994"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.314453125" x="41.3427734375" y="46.51562499999997">Antwort<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.197265625" x="42.9013671875" y="46.51562499999997">Answer<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -433,12 +433,12 @@ installiert werden via Script
           <data key="d4"/>
           <data key="d6">
             <y:UMLNoteNode>
-              <y:Geometry height="71.99999999999994" width="150.0" x="581.3777777777777" y="36.4609375"/>
+              <y:Geometry height="71.99999999999994" width="134.0" x="578.9984126984127" y="36.4609375"/>
               <y:Fill color="#FFFF00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.0" x="4.0" y="13.046874999999972">Enthält:
-- ELF- oder HEX-Datei
-- (angegebenes Board)<y:LabelModel>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="111.232421875" x="11.3837890625" y="13.046874999999972">Contains:
+- ELF- or HEX-files
+- specified board<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -451,7 +451,7 @@ installiert werden via Script
         <node id="n2::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="50.0" width="150.0" x="547.8777777777777" y="333.4296874999999"/>
+              <y:Geometry height="50.0" width="150.0" x="537.4984126984127" y="333.4296874999999"/>
               <y:Fill color="#C0C0C0" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.5390625" x="48.73046875" y="16.015625">Website<y:LabelModel>
@@ -471,12 +471,12 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="50.0" sy="-25.0" tx="0.0" ty="25.0">
-            <y:Point x="547.5456349206349" y="834.9555492401121"/>
-            <y:Point x="622.8777777777777" y="834.9555492401121"/>
+            <y:Point x="533.2642857142857" y="834.9555492401121"/>
+            <y:Point x="612.4984126984127" y="834.9555492401121"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.279296875" x="40.69247504340274" y="-187.4211578369143">(1) ruft auf<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.68359375" x="53.39233359685022" y="-194.70832824707054">(1) calls<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -492,16 +492,16 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="45.0" tx="0.0" ty="-25.0">
-            <y:Point x="1241.9051587301587" y="992.5471153259275"/>
-            <y:Point x="1360.040873015873" y="992.5471153259275"/>
+            <y:Point x="1221.9623015873017" y="1000.0985984802244"/>
+            <y:Point x="1317.9246031746031" y="1000.0985984802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.345703125" x="-41.172844199528754" y="248.57273674011208">(2.2) geht an<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="80.716796875" x="-40.35837712363582" y="248.57273674011208">(2.2) goes to<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.599690162442714" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.5887441209501127" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -513,16 +513,16 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-50.0" sy="25.0" tx="0.0" ty="-25.0">
-            <y:Point x="572.8777777777777" y="404.42968749999983"/>
-            <y:Point x="497.54563492063494" y="404.42968749999983"/>
+            <y:Point x="562.4984126984127" y="404.42968749999983"/>
+            <y:Point x="483.26428571428573" y="404.42968749999983"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="137.611328125" x="-144.13783675905256" y="310.6819915771482">(5) stößt Download an<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="134.658203125" x="-146.56322893415177" y="310.6819915771482">(5) initiates download<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6448389151644033" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6348764951094658" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -534,17 +534,17 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-75.0" sy="0.0" tx="-50.0" ty="-25.0">
-            <y:Point x="1001.7889198908731" y="1138.4455528259275"/>
-            <y:Point x="1001.7889198908731" y="1078.9611778259275"/>
-            <y:Point x="1310.040873015873" y="1078.9611778259275"/>
+            <y:Point x="922.8406187996031" y="1139.0126609802244"/>
+            <y:Point x="922.8406187996031" y="1079.5282859802244"/>
+            <y:Point x="1267.9246031746031" y="1079.5282859802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="212.751953125" x="-273.2174277653769" y="-68.4687538146975">(3) kompiliert RIOT nach Vorgaben<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="249.583984375" x="-310.04487924727187" y="-68.46878433227562">(3) compiles RIOT with user specification<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.37753524473309047" segment="2"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.39060634016855045" segment="2"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -557,8 +557,8 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="25.0" tx="9.881750106811523" ty="-23.443998336791992">
-            <y:Point x="1360.040873015873" y="1237.9299278259275"/>
-            <y:Point x="865.1666707417321" y="1237.9299278259275"/>
+            <y:Point x="1317.9246031746031" y="1238.4970359802244"/>
+            <y:Point x="816.1039723290337" y="1238.4970359802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -580,16 +580,16 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="50.0" sy="-25.0" tx="33.5" ty="24.53124999999997">
-            <y:Point x="1410.040873015873" y="254.4609374999999"/>
-            <y:Point x="689.8777777777777" y="254.4609374999999"/>
+            <y:Point x="1367.9246031746031" y="254.4609374999999"/>
+            <y:Point x="679.4984126984127" y="254.4609374999999"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="77.20703125" x="-38.60353616381417" y="-419.3076324462893">(4.1) sendet<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.37109375" x="-35.68550424727164" y="-419.8747711181643">(4.1) sends<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.46907101895722075" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.4694271043181835" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -600,15 +600,17 @@ installiert werden via Script
     <edge id="n0::e0" source="n0::n0" target="n0::n5::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="37.5" sy="25.0" tx="50.0" ty="-25.0"/>
+          <y:Path sx="37.5" sy="25.0" tx="50.0" ty="-25.0">
+            <y:Point x="520.7642857142857" y="1014.0829734802244"/>
+            <y:Point x="488.3670634920635" y="1014.0829734802244"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="31.9375" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="244.943359375" x="-122.47169906374006" y="39.99999618530251">(6) User ruft auf
-(manuell oder ausgelöst durch Website)<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="235.15234375" x="-117.57616838727677" y="47.26791000366188">(6) user calls (manually or by website)<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.2501256211266819" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6900626795020017" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -621,10 +623,10 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-37.5" sy="25.0" tx="0.0" ty="-25.0">
-            <y:Point x="460.04563492063494" y="941.5783653259275"/>
-            <y:Point x="392.57380952380953" y="941.5783653259275"/>
-            <y:Point x="392.57380952380953" y="1013.5158653259275"/>
-            <y:Point x="485.04563492063494" y="1013.5158653259275"/>
+            <y:Point x="445.76428571428573" y="956.1142234802244"/>
+            <y:Point x="383.18809523809523" y="956.1142234802244"/>
+            <y:Point x="383.18809523809523" y="1014.0829734802244"/>
+            <y:Point x="438.3670634920635" y="1014.0829734802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -636,9 +638,9 @@ installiert werden via Script
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="21.675333658854157" sy="22.59156608581543" tx="-50.0" ty="-25.0">
-            <y:Point x="161.25787334139383" y="861.5783653259275"/>
-            <y:Point x="447.54563492063494" y="861.5783653259275"/>
+          <y:Path sx="21.675333658854186" sy="22.59156608581543" tx="-50.0" ty="-25.0">
+            <y:Point x="135.5118415953621" y="861.5783653259275"/>
+            <y:Point x="433.26428571428573" y="861.5783653259275"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -651,8 +653,8 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="26.62281608581543" tx="-37.5" ty="-25.0">
-            <y:Point x="139.58253968253968" y="1426.8986778259275"/>
-            <y:Point x="235.58253968253968" y="1426.8986778259275"/>
+            <y:Point x="113.83650793650794" y="1417.4657859802244"/>
+            <y:Point x="209.83650793650793" y="1417.4657859802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="diamond" target="none"/>
@@ -664,17 +666,17 @@ installiert werden via Script
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-21.675333658854157" sy="26.62281608581543" tx="-17.28953742980957" ty="-9.791999816894531">
-            <y:Point x="117.90720602368552" y="861.5783653259275"/>
-            <y:Point x="62.291269841269845" y="861.5783653259275"/>
+          <y:Path sx="-21.67533365885417" sy="26.62281608581543" tx="-17.28953742980957" ty="-9.791999816894531">
+            <y:Point x="92.16117427765377" y="861.5783653259275"/>
+            <y:Point x="49.41825396825397" y="861.5783653259275"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="white_diamond" target="none"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.58203125" x="-101.90686295322948" y="471.8515586834219">angeschlossen<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.8359375" x="-76.16079908352887" y="462.41866683279795">connected<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6068785291026078" segment="-1"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.6081949051357309" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -688,7 +690,7 @@ installiert werden via Script
           <y:Path sx="0.0" sy="32.26792907714844" tx="0.0" ty="-26.62281608581543"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.45703125" x="-35.22851073249939" y="30.000030517577898">(0) bedient<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.2265625" x="-28.6132830180819" y="30.000030517577898">(0) using<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -704,14 +706,14 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="37.5" sy="25.0" tx="17.28953742980957" ty="-9.791999816894531">
-            <y:Point x="310.5825396825397" y="1536.3949949195203"/>
-            <y:Point x="379.5436507936508" y="1536.3949949195203"/>
-            <y:Point x="379.5436507936508" y="1631.3949949195203"/>
-            <y:Point x="96.87048981076195" y="1631.3949949195203"/>
+            <y:Point x="284.8365079365079" y="1519.2061320270207"/>
+            <y:Point x="360.7234126984127" y="1519.2061320270207"/>
+            <y:Point x="360.7234126984127" y="1614.2061320270207"/>
+            <y:Point x="83.99747393774608" y="1614.2061320270207"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.921875" x="36.00016324482266" y="58.771581833582786">(10) flasht<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.7734375" x="36.00017661442831" y="51.01558026920816">(10) flashing<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -737,14 +739,14 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="50.0" sy="25.0" tx="-27.25" ty="-35.03125">
-            <y:Point x="672.8777777777777" y="404.42968749999983"/>
-            <y:Point x="1210.5515873015872" y="404.42968749999983"/>
-            <y:Point x="1210.5515873015872" y="462.39843749999983"/>
-            <y:Point x="1214.6551587301587" y="462.39843749999983"/>
+            <y:Point x="662.4984126984127" y="404.42968749999983"/>
+            <y:Point x="1193.5265873015874" y="404.42968749999983"/>
+            <y:Point x="1193.5265873015874" y="462.39843749999983"/>
+            <y:Point x="1194.7123015873017" y="462.39843749999983"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="77.20703125" x="499.07026405939973" y="50.99999999999983">(2.1) sendet<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.37109375" x="495.34262734064987" y="50.99999999999983">(2.1) sends<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -762,7 +764,7 @@ installiert werden via Script
           <y:Path sx="-33.5" sy="24.53124999999997" tx="0.0" ty="-25.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.390625" x="-49.69534233940976" y="75.96874999999989">(4.2) kommt als<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="92.9453125" x="-46.47265663752478" y="75.96874999999989">(4.2) comes as<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -785,13 +787,9 @@ installiert werden via Script
       </data>
     </edge>
     <edge id="n0::e7" source="n0::n4" target="n0::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="25.0" tx="-175.96746031746028" ty="-293.9395647967965">
-            <y:Point x="250.58253968253968" y="941.5783653259275"/>
-            <y:Point x="214.58253968253968" y="941.5783653259275"/>
-          </y:Path>
+          <y:Path sx="0.0" sy="32.26792907714844" tx="-79.14781746031747" ty="-285.06157927339814"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -801,17 +799,14 @@ installiert werden via Script
     <edge id="n0::n5::e0" source="n0::n5::n0" target="n0::n5::n3">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="25.0" tx="0.0" ty="-33.28125">
-            <y:Point x="485.04563492063494" y="1251.9143028259275"/>
-            <y:Point x="482.13174603174605" y="1251.9143028259275"/>
-          </y:Path>
+          <y:Path sx="0.0" sy="25.0" tx="0.0" ty="-33.28125"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.763671875" x="-31.381824796161936" y="60.49999618530251">(8) macht<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.921875" x="-29.960939437624006" y="60.49996566772438">(8) sends<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.7451227186910007" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.7872340425531915" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -823,17 +818,17 @@ installiert werden via Script
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-75.0" sy="0.0" tx="-50.0" ty="-25.0">
-            <y:Point x="155.08274429563494" y="1138.4455528259275"/>
-            <y:Point x="155.08274429563494" y="1078.9611778259275"/>
-            <y:Point x="435.04563492063494" y="1078.9611778259275"/>
+            <y:Point x="194.0506572420635" y="1139.0126609802244"/>
+            <y:Point x="194.0506572420635" y="1079.5282859802244"/>
+            <y:Point x="388.3670634920635" y="1079.5282859802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="184.462890625" x="-244.93178207155256" y="-68.4687538146975">(7) Nutzerabfrage Speicherort<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="98.81640625" x="-159.27505686926463" y="-68.46878433227585">(7) File Chooser<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.36516070070670636" segment="2"/>
+              <y:SmartEdgeLabelModelParameter angle="6.283185307179586" distance="10.0" distanceToCenter="false" position="center" ratio="0.30572921901698663" segment="2"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -843,7 +838,6 @@ installiert werden via Script
     </edge>
     <edge id="n0::n5::e2" source="n0::n5::n1" target="n0::n5::n2">
       <data key="d8"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-37.5" sy="25.0" tx="0.0" ty="-25.0"/>
@@ -854,7 +848,6 @@ installiert werden via Script
       </data>
     </edge>
     <edge id="n0::n5::e3" source="n0::n5::n3" target="n0::n5::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="33.5" sy="24.53125" tx="0.0" ty="-32.755971046796276"/>
@@ -865,16 +858,15 @@ installiert werden via Script
       </data>
     </edge>
     <edge id="n0::n5::e4" source="n0::n5::n3" target="n0::n5::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-33.5" sy="24.53125" tx="37.5" ty="-25.0">
-            <y:Point x="448.63174603174605" y="1440.8830528259275"/>
-            <y:Point x="310.5825396825397" y="1440.8830528259275"/>
+            <y:Point x="404.8670634920635" y="1431.4501609802244"/>
+            <y:Point x="284.8365079365079" y="1431.4501609802244"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.896484375" x="-35.44824054051958" y="60.96874618530251">(9) geht an<y:LabelModel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" height="17.96875" horizontalTextPosition="center" iconTextGap="4" lineColor="#000000" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.267578125" x="-34.633791000124006" y="60.96871566772438">(9) goes to<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
