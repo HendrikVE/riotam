@@ -7,3 +7,12 @@
 [submodule "Server-Environment-for-RIOT-App-Market"]
 	path = Server-Environment-for-RIOT-App-Market
 	url = https://github.com/HendrikVE/Server-Environment-for-RIOT-App-Market
+[submodule "riotam-chrome-integration"]
+	path = riotam-chrome-integration
+	url = https://github.com/HendrikVE/riotam-chrome-integration
+[submodule "riotam-backend"]
+	path = riotam-backend
+	url = https://github.com/HendrikVE/riotam-backend
+[submodule "riotam-website"]
+	path = riotam-website
+	url = https://github.com/HendrikVE/riotam-website
