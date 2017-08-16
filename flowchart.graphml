@@ -146,7 +146,7 @@ with a script
               <y:Realizers active="0">
                 <y:GroupNode>
                   <y:Geometry height="570.1231585467967" width="466.72380952380945" x="77.24702380952382" y="1026.8150444030757"/>
-                  <y:Fill color="#F5F5F5" transparent="false"/>
+                  <y:Fill color="#999999" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="466.72380952380945" x="0.0" y="0.0">RIOT App Market (riotam-chrome-integration)</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
@@ -266,7 +266,7 @@ with a script
           <y:Realizers active="0">
             <y:GroupNode>
               <y:Geometry height="344.311185836792" width="724.5841269841269" x="671.8073412698411" y="1026.815044403076"/>
-              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:Fill color="#999999" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="724.5841269841269" x="0.0" y="0.0">server side (riotam-backend)</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
@@ -371,7 +371,7 @@ with a script
           <y:Realizers active="0">
             <y:GroupNode>
               <y:Geometry height="587.3984374999998" width="822.0448412698413" x="327.346626984127" y="0.0"/>
-              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:Fill color="#999999" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="822.0448412698413" x="0.0" y="0.0">WWW (riotam-website)</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
