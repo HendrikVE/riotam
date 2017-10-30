@@ -68,7 +68,7 @@
               <y:Geometry height="57.79048295454546" width="195.80488528481013" x="241.80549386553145" y="482.38449714754347"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#00E500" type="line" width="3.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="141.97265625" x="26.91611451740505" y="19.328835227272748">select components<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="114.322265625" x="40.74130982990505" y="19.328835227272748">select modules<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -590,7 +590,6 @@ browser integration<y:LabelModel>
     </edge>
     <edge id="n0::e9" source="n0::n1" target="n0::n11">
       <data key="d8"/>
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="28.895241477272748" tx="0.0" ty="-28.895241477272748"/>
