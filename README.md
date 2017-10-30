@@ -6,7 +6,7 @@
 * [RIOT App Market Website](https://github.com/HendrikVE/riotam-website "https://github.com/HendrikVE/riotam-website")
 
 ## Below is a flowchart to illustrate the process of using the RIOT App Market website and flash the users connected device:
-![Flowchart](flowchart.png "Flowchart")
+![Flowchart](graphics/flowchart.png "Flowchart")
 
 ## To set up the system you need:
 * python-mysqldb
