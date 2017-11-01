@@ -15,6 +15,8 @@
 ### More Information
 Visit [RIOT OS Website](https://riot-os.org/ "https://riot-os.org/") for details
 
+Graphics are editable with [yEd](http://www.yworks.com/products/yed "http://www.yworks.com/products/yed")
+
 ## LICENSE
 The project is licensed under the GNU Lesser General Public License
 (LGPL) version 2.1 as published by the Free Software Foundation.
